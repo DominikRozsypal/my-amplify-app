@@ -1,15 +1,28 @@
 {
   "main": {
     "awscloudformation": {
-      "AuthRoleName": "amplify-myamplifyapp-main-204918-authRole",
-      "UnauthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-main-204918-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-main-204918-authRole",
+      "AuthRoleName": "amplify-myamplifyapp-main-194848-authRole",
+      "UnauthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-main-194848-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-main-194848-authRole",
       "Region": "eu-central-1",
-      "DeploymentBucketName": "amplify-myamplifyapp-main-204918-deployment",
-      "UnauthRoleName": "amplify-myamplifyapp-main-204918-unauthRole",
-      "StackName": "amplify-myamplifyapp-main-204918",
-      "StackId": "arn:aws:cloudformation:eu-central-1:797022849169:stack/amplify-myamplifyapp-main-204918/e814d990-74d5-11ed-b336-066d1fa5b4da",
-      "AmplifyAppId": "d1r4ibjt0r9sav"
+      "DeploymentBucketName": "amplify-myamplifyapp-main-194848-deployment",
+      "UnauthRoleName": "amplify-myamplifyapp-main-194848-unauthRole",
+      "StackName": "amplify-myamplifyapp-main-194848",
+      "StackId": "arn:aws:cloudformation:eu-central-1:797022849169:stack/amplify-myamplifyapp-main-194848/9f15bea0-7596-11ed-8b1a-062f3991d1fe",
+      "AmplifyAppId": "d2pal1r9qaw6e1"
+    }
+  },
+  "preview": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-myamplifyapp-preview-200300-authRole",
+      "UnauthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-preview-200300-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::797022849169:role/amplify-myamplifyapp-preview-200300-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-myamplifyapp-preview-200300-deployment",
+      "UnauthRoleName": "amplify-myamplifyapp-preview-200300-unauthRole",
+      "StackName": "amplify-myamplifyapp-preview-200300",
+      "StackId": "arn:aws:cloudformation:eu-central-1:797022849169:stack/amplify-myamplifyapp-preview-200300/9b102a00-7598-11ed-9074-0acb4e648cea",
+      "AmplifyAppId": "d2pal1r9qaw6e1"
     }
   }
 }
